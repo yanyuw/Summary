@@ -30,3 +30,9 @@
 
 + 12.1-[css层叠与继承](https://github.com/yanyuw/Summary/blob/master/CSS/12.1-CSSinherit.md)
 + 12.2-[浏览器的工作原理](./others/12.2-browser.md)
+
+## 2019
+
+### 1月
+
++ 1.20-[JS对象与函数](./JS/1.20-Object&Function.md)
